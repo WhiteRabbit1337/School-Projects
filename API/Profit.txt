@@ -1,0 +1,238 @@
+Buy on day:2         Sell on day:3, Date: 2020-05-06 00:00:00
+$37.44                $37.68
+Profit:$0.24
+
+Buy on day:4         Sell on day:5, Date: 2020-05-08 00:00:00
+$37.6                $38.89
+Profit:$1.53
+
+Buy on day:8         Sell on day:11, Date: 2020-05-18 00:00:00
+$36.22                $38.55
+Profit:$3.86
+
+Buy on day:12         Sell on day:13, Date: 2020-05-20 00:00:00
+$37.83                $37.89
+Profit:$3.92
+
+Buy on day:14         Sell on day:15, Date: 2020-05-22 00:00:00
+$36.79                $36.83
+Profit:$3.96
+
+Buy on day:16         Sell on day:17, Date: 2020-05-27 00:00:00
+$36.73                $39.74
+Profit:$6.97
+
+Buy on day:19         Sell on day:25, Date: 2020-06-08 00:00:00
+$37.96                $43.37
+Profit:$12.38
+
+Buy on day:28         Sell on day:31, Date: 2020-06-16 00:00:00
+$36.55                $39.8
+Profit:$15.63
+
+Buy on day:32         Sell on day:33, Date: 2020-06-18 00:00:00
+$38.77                $39.08
+Profit:$15.94
+
+Buy on day:35         Sell on day:36, Date: 2020-06-23 00:00:00
+$37.95                $37.97
+Profit:$15.96
+
+Buy on day:39         Sell on day:40, Date: 2020-06-29 00:00:00
+$34.43                $35.42
+Profit:$16.95
+
+Buy on day:41         Sell on day:44, Date: 2020-07-06 00:00:00
+$34.36                $35.66
+Profit:$18.25
+
+Buy on day:45         Sell on day:46, Date: 2020-07-08 00:00:00
+$34.66                $34.74
+Profit:$18.33
+
+Buy on day:47         Sell on day:48, Date: 2020-07-10 00:00:00
+$33.25                $34.66
+Profit:$19.74
+
+Buy on day:49         Sell on day:53, Date: 2020-07-17 00:00:00
+$34.32                $36.08
+Profit:$21.50
+
+Buy on day:54         Sell on day:55, Date: 2020-07-21 00:00:00
+$35.0                $35.85
+Profit:$22.35
+
+Buy on day:56         Sell on day:57, Date: 2020-07-23 00:00:00
+$35.8                $36.55
+Profit:$23.10
+
+Buy on day:59         Sell on day:63, Date: 2020-07-31 00:00:00
+$36.15                $37.52
+Profit:$24.47
+
+Buy on day:66         Sell on day:71, Date: 2020-08-12 00:00:00
+$36.53                $38.43
+Profit:$26.37
+
+Buy on day:73         Sell on day:76, Date: 2020-08-19 00:00:00
+$37.68                $37.85
+Profit:$26.54
+
+Buy on day:78         Sell on day:79, Date: 2020-08-24 00:00:00
+$36.8                $38.02
+Profit:$27.76
+
+Buy on day:81         Sell on day:83, Date: 2020-08-28 00:00:00
+$37.5                $37.89
+Profit:$28.15
+
+Buy on day:85         Sell on day:88, Date: 2020-09-04 00:00:00
+$37.01                $38.32
+Profit:$29.46
+
+Buy on day:94         Sell on day:96, Date: 2020-09-17 00:00:00
+$34.29                $35.06
+Profit:$30.23
+
+Buy on day:98         Sell on day:99, Date: 2020-09-22 00:00:00
+$33.59                $33.73
+Profit:$30.37
+
+Buy on day:102         Sell on day:103, Date: 2020-09-28 00:00:00
+$32.65                $33.58
+Profit:$31.30
+
+Buy on day:104         Sell on day:105, Date: 2020-09-30 00:00:00
+$33.53                $33.56
+Profit:$31.33
+
+Buy on day:106         Sell on day:108, Date: 2020-10-05 00:00:00
+$32.78                $34.95
+Profit:$33.50
+
+Buy on day:109         Sell on day:111, Date: 2020-10-08 00:00:00
+$34.92                $36.8
+Profit:$35.38
+
+Buy on day:114         Sell on day:116, Date: 2020-10-15 00:00:00
+$35.34                $35.57
+Profit:$35.61
+
+Buy on day:120         Sell on day:122, Date: 2020-10-23 00:00:00
+$34.59                $35.68
+Profit:$36.70
+
+Buy on day:125         Sell on day:129, Date: 2020-11-03 00:00:00
+$32.91                $38.68
+Profit:$42.47
+
+Buy on day:130         Sell on day:134, Date: 2020-11-10 00:00:00
+$37.29                $42.8
+Profit:$47.98
+
+Buy on day:136         Sell on day:139, Date: 2020-11-17 00:00:00
+$42.2                $45.13
+Profit:$50.91
+
+Buy on day:140         Sell on day:141, Date: 2020-11-19 00:00:00
+$43.56                $44.04
+Profit:$51.39
+
+Buy on day:142         Sell on day:144, Date: 2020-11-24 00:00:00
+$43.56                $47.04
+Profit:$54.87
+
+Buy on day:145         Sell on day:146, Date: 2020-11-27 00:00:00
+$46.5                $46.8
+Profit:$55.17
+
+Buy on day:147         Sell on day:148, Date: 2020-12-01 00:00:00
+$46.0                $46.25
+Profit:$55.42
+
+Buy on day:149         Sell on day:155, Date: 2020-12-10 00:00:00
+$45.29                $48.21
+Profit:$58.34
+
+Buy on day:157         Sell on day:159, Date: 2020-12-16 00:00:00
+$45.92                $46.27
+Profit:$58.69
+
+Buy on day:163         Sell on day:167, Date: 2020-12-29 00:00:00
+$44.42                $45.54
+Profit:$59.81
+
+Buy on day:169         Sell on day:172, Date: 2021-01-06 00:00:00
+$45.19                $49.25
+Profit:$63.87
+
+Buy on day:173         Sell on day:178, Date: 2021-01-14 00:00:00
+$49.15                $53.5
+Profit:$68.22
+
+Buy on day:183         Sell on day:186, Date: 2021-01-27 00:00:00
+$50.52                $54.99
+Profit:$72.69
+
+Buy on day:190         Sell on day:191, Date: 2021-02-03 00:00:00
+$48.89                $49.37
+Profit:$73.17
+
+Buy on day:195         Sell on day:196, Date: 2021-02-10 00:00:00
+$48.66                $48.98
+Profit:$73.49
+
+Buy on day:198         Sell on day:200, Date: 2021-02-17 00:00:00
+$44.01                $45.38
+Profit:$74.86
+
+Buy on day:202         Sell on day:205, Date: 2021-02-24 00:00:00
+$44.4                $47.01
+Profit:$77.47
+
+Buy on day:207         Sell on day:209, Date: 2021-03-02 00:00:00
+$44.45                $44.97
+Profit:$77.99
+
+Buy on day:210         Sell on day:213, Date: 2021-03-08 00:00:00
+$44.95                $47.67
+Profit:$80.71
+
+Buy on day:214         Sell on day:215, Date: 2021-03-10 00:00:00
+$46.38                $46.85
+Profit:$81.18
+
+Buy on day:216         Sell on day:223, Date: 2021-03-22 00:00:00
+$45.98                $49.85
+Profit:$85.05
+
+Buy on day:225         Sell on day:228, Date: 2021-03-29 00:00:00
+$48.36                $52.91
+Profit:$89.60
+
+Buy on day:230         Sell on day:232, Date: 2021-04-05 00:00:00
+$51.15                $52.75
+Profit:$91.20
+
+Buy on day:236         Sell on day:238, Date: 2021-04-13 00:00:00
+$50.0                $51.74
+Profit:$92.94
+
+Buy on day:239         Sell on day:242, Date: 2021-04-19 00:00:00
+$51.15                $54.01
+Profit:$95.80
+
+Buy on day:243         Sell on day:244, Date: 2021-04-21 00:00:00
+$52.43                $53.17
+Profit:$96.54
+
+Buy on day:246         Sell on day:247, Date: 2021-04-26 00:00:00
+$52.27                $52.94
+Profit:$97.21
+
+Buy on day:249         Sell on day:250, Date: 2021-04-29 00:00:00
+$51.87                $55.5
+Profit:$100.84
+
+Bank:
+$10100.84
